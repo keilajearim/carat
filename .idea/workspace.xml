@@ -16,7 +16,7 @@
       <file leaf-file-name="clapmv.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clapmv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="135">
               <caret line="11" column="20" selection-end-line="14" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/thanksmv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -37,8 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dwc.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dwc.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dwc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cccmv.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cccmv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
@@ -70,6 +82,8 @@
         <option value="$PROJECT_DIR$/clapmv.py" />
         <option value="$PROJECT_DIR$/thanksmv.py" />
         <option value="$PROJECT_DIR$/dwc.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/cccmv.py" />
       </list>
     </option>
   </component>
@@ -91,6 +105,10 @@
               <item name="vote_ema" type="b2602c69:ProjectViewProjectNode" />
               <item name="vote_ema" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vote_ema" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,8 +117,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,6 +232,9 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9fdcbfdb-a5cc-4397-b3e7-d1887d4a42d6" name="Default" comment="" />
@@ -234,7 +256,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49676898" weight="0.32967034" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49676898" visible="true" weight="0.36827585" />
       <window_info anchor="right" id="FAQ Robot" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3513732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23667206" />
       <window_info id="Project Explorer" order="3" />
       <window_info id="Job Explorer" order="3" />
       <window_info anchor="bottom" id="Console" order="8" />
@@ -245,7 +267,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="MaxCompute Job Explorer" order="2" />
       <window_info anchor="bottom" id="MaxCompute Job" order="7" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info id="MaxCompute Project Explorer" order="2" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -253,6 +274,7 @@
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="bottom" id="MaxCompute Console" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -261,6 +283,36 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clapmv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="20" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thanksmv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dwc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clapmv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -551,9 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vote_ema.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/clapmv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -563,12 +612,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote_ema.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote_ema.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/vote_mama.py" />
     <entry file="file://$PROJECT_DIR$/vote_ema.py">
@@ -585,9 +628,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clapmv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="135">
           <caret line="11" column="20" selection-end-line="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
@@ -598,7 +648,7 @@
     <entry file="file://$PROJECT_DIR$/thanksmv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -606,6 +656,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dwc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cccmv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />

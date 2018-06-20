@@ -10,5 +10,5 @@ for i in range(5):
     driver.get("https://www.youtube.com/watch?v=BgR_HJ7aGDY")
     element = driver.find_element_by_css_selector("#toggleButton")
     ActionChains(driver).move_to_element(element).click(element).perform()
-    time.sleep(240)
+    time.sleep(230)
     driver.quit()
